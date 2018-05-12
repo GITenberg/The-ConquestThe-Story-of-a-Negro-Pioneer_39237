@@ -1,0 +1,31 @@
+_repo: The-ConquestThe-Story-of-a-Negro-Pioneer_39237
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39237-h/images/ifront_cover.jpg
+creator:
+  author:
+    agent_name: Micheaux, Oscar
+    birthdate: 1884
+    deathdate: 1951
+    gutenberg_agent_id: '39912'
+    url: http://www.gutenberg.org/2009/agents/39912
+    wikipedia: http://en.wikipedia.org/wiki/Oscar_Micheaux
+description: ''
+gutenberg_issued: '2012-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39237'
+  lccn: '13010925'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African American pioneers -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'South Dakota -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: 'The Conquest: The Story of a Negro Pioneer'
+url: http://www.gutenberg.org/ebooks/39237
